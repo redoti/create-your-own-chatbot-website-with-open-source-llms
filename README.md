@@ -1,11 +1,11 @@
-# Create Your Own Chatbot Website with Open Source LLMs
+# Creating anime characters using DCGANs and Keras
  
 ---
 
 ### Author : [Cognitive Class](https://cognitiveclass.ai/) 
-Link Course : [Create Your Own Chatbot Website with Open Source LLMs](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1)
+Link Course : [Creating anime characters using DCGANs and Keras](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0XCEEN+v1)
 
-### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Create Your Own Chatbot Website with Open Source LLMs from [Cognitive Class](https://cognitiveclass.ai/)
+### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Creating anime characters using DCGANs and Keras from [Cognitive Class](https://cognitiveclass.ai/)
 
 ---
 
@@ -18,17 +18,4 @@ Mentor : Agistira Lamunde
 
 Tech Stack:
 - Python
-- HTML
-- CSS
-- JS
-
-Libraries :
-- flask
-- flask_cors
-- requests
-- transformers
-- torch
-
-How to run this project
-- pip install -r requirement.txt
-- flask run
+- Markdown
