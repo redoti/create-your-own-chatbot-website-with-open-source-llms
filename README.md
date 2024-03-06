@@ -1,21 +1,29 @@
-# Creating anime characters using DCGANs and Keras
- 
+# Create Your Own Chatbot Website with Open Source LLMs
+
 ---
 
 ### Author : [Cognitive Class](https://cognitiveclass.ai/) 
-Link Course : [Creating anime characters using DCGANs and Keras](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0XCEEN+v1)
+Link Course : [Create Your Own Chatbot Website with Open Source LLMs](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1)
 
-### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Creating anime characters using DCGANs and Keras from [Cognitive Class](https://cognitiveclass.ai/)
+### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Create Your Own Chatbot Website with Open Source LLMs from [Cognitive Class](https://cognitiveclass.ai/)
 
 ---
 
-#### Mentee Information
-Name : Redoti Zulfikar Sasongko
-
-Program : IBM Advance AI
-
-Mentor : Agistira Lamunde
+	@@ -18,17 +18,4 @@ Mentor : Agistira Lamunde
 
 Tech Stack:
 - Python
-- Markdown
+- HTML
+- CSS
+- JS
+
+Libraries :
+- flask
+- flask_cors
+- requests
+- transformers
+- torch
+
+How to run this project
+- pip install -r requirement.txt
+- flask run
