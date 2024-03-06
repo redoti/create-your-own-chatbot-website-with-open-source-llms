@@ -9,7 +9,12 @@ Link Course : [Create Your Own Chatbot Website with Open Source LLMs](https://co
 
 ---
 
-	@@ -18,17 +18,4 @@ Mentor : Agistira Lamunde
+#### Mentee Information
+Name : Redoti Zulfikar Sasongko
+
+Program : IBM Advance AI
+
+Mentor : Agistira Lamunde
 
 Tech Stack:
 - Python
